@@ -19,5 +19,6 @@ Kelas memulai pemograman dengan Java (Progres 56%)
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 * Belajar konsep OOP (Object-Oriented Programming) untuk mempermudah pengembangan sebuah program.
+* Belajar Java Collection
 * Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar. 
 * Mengerjakan ujian akhir untuk menilai kemahiran diri.
